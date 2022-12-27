@@ -24,3 +24,7 @@ Hi, I'm Douglas! I'm here to learn and contribute my knowledge in this Android a
 1. Project's prototype.
 2. Assembling the project layout.
 
+
+<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
