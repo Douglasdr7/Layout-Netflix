@@ -24,4 +24,4 @@ Hi, I'm Douglas! I'm here to learn and contribute my knowledge in this Android a
 1. Project's prototype.
 2. Assembling the project layout.
 
-[(https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg)(www.google.com)]
+[![Snake](https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg&link=https://www.google.com)]
