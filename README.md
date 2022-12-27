@@ -24,6 +24,13 @@ Hi, I'm Douglas! I'm here to learn and contribute my knowledge in this Android a
 1. Project's prototype.
 2. Assembling the project layout.
 
+# Howdy 🤠
+
+This account contains my less important/interesting private repositories.
+
+## Rest of my repositories and my information can be found on this profile: https://github.com/tomondre
+
+Have a nice day!
 
 <a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
