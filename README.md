@@ -24,4 +24,4 @@ Hi, I'm Douglas! I'm here to learn and contribute my knowledge in this Android a
 1. Project's prototype.
 2. Assembling the project layout.
 
-[![Linkedin Badge](https://raw.githubusercontent.com/Douglasdr7/Douglasdr7/main/contributions.svg)
+[[![Linkedin Badge](https://raw.githubusercontent.com/Douglasdr7/Douglasdr7/main/contributions.svg)(https://raw.githubusercontent.com/tondrejk/tondrejk/main/contributions.svg)
